@@ -4,3 +4,5 @@ public class Solution {
       return a + b;
     }
 }
+
+Complete the function solveMeFirst to compute the sum of two integers
