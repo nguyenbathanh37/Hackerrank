@@ -5,4 +5,4 @@ public class Solution {
     }
 }
 
-Complete the function solveMeFirst to compute the sum of two integers
+//Complete the function solveMeFirst to compute the sum of two integers

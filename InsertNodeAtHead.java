@@ -6,3 +6,5 @@ public class InsertNodeAtHead {
         return llist;   
     }
 }
+
+//insert node at head

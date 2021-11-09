@@ -10,3 +10,5 @@ public class DiagonalDifference {
             return Math.abs(sum1 - sum2);
         }
 }
+
+//Given a square matrix, calculate the absolute difference between the sums of its diagonals.
